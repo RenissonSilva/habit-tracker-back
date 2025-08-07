@@ -1,3 +1,6 @@
+# Colocar no readme estrutura das pastas, onde colocar este arquivo e comandos a serem executados
+# para inicializar o projeto
+
 version: "3.8"
 
 services:
